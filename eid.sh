@@ -9,5 +9,5 @@ elif [ $1 == 'show' ]
 then
 cat .banner
 else
-echo You may not go to the party.
+echo "choose a valid command ):"
 fi
